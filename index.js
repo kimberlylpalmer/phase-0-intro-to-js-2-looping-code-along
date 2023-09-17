@@ -17,6 +17,7 @@
 // wrapGifts(gifts);
 
 
+//seconde time with this lab
 
 function writeCards(names, event) {
     const cardsMessage = []
